@@ -2,7 +2,7 @@
 
 namespace Dynamic\StateDropdownField\Fields;
 
-use \DropdownField;
+use SilverStripe\Forms\DropdownField;
 
 /**
  * A simple extension to dropdown field, pre-configured to list states.
