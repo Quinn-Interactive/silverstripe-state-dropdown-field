@@ -1,9 +1,10 @@
 <?php
+use SilverStripe\Dev\FunctionalTest;
 
 /**
  * Class StateDropdownTest
  */
-class StateDropdownTest extends SapphireTest
+class StateDropdownTest extends FunctionalTest
 {
 
     /**
